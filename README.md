@@ -19,13 +19,14 @@ samples, guidance on mobile development, and a full API reference.
 
 
 
+![login](https://github.com/Sami-flutter/shoesstore/assets/63207614/1804cee8-af6c-4383-a145-9c42da7af7f3)
 
-![login](https://github.com/Sami-flutter/shoesstore/assets/63207614/47e8cf40-ab00-454d-82db-8c6f6607bfde)
+ ![home](https://github.com/Sami-flutter/shoesstore/assets/63207614/bda088b3-70e5-4364-9c7c-91073d6f6eaa) ![det](https://github.com/Sami-flutter/shoesstore/assets/63207614/6ac61c00-b1ee-4aca-86f9-f48cdfc49862)
 
 
-![home](https://github.com/Sami-flutter/shoesstore/assets/63207614/bda088b3-70e5-4364-9c7c-91073d6f6eaa)
 
-![det](https://github.com/Sami-flutter/shoesstore/assets/63207614/6ac61c00-b1ee-4aca-86f9-f48cdfc49862)
+
+
 
 ![chekout](https://github.com/Sami-flutter/shoesstore/assets/63207614/108cf84d-1d75-444b-8f14-3e588749bce8)
 
